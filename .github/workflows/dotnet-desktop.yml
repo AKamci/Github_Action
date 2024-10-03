@@ -25,7 +25,7 @@ jobs:
     - name: Build and push Docker image
       uses: docker/build-push-action@v5
       with:
-        context: Github Action  # Dockerfile'ın bulunduğu dizin
+        context: ./GithubAction  # Dockerfile'ın bulunduğu dizin
         file: Dockerfile  # Dockerfile'ın tam yolu
         push: true
         tags: akamci/postgre:latest
