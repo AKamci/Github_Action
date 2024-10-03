@@ -26,12 +26,12 @@ jobs:
       uses: docker/build-push-action@v5
       with:
         context: .
+        file: D:\Visual Studio Code Projeler\Github_Action\Github Action\Dockerfile  # Dockerfile'ın doğru yolu
         push: true
         tags: akamci/postgre:latest
 
     - name: Deploy Docker container
       run: |
-        docker pull akamci/postgres:latest
         docker stop testOne || true
         docker rm testOne || true
-        docker run -d --name testOne -p 8080:8080 akamci/postgres:latest
+        docker run -d --name testOne -p 8080:8080 akamci/postgre:latest
