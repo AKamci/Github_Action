@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Code Projeler\\Github Action\\Github Action.csproj": {}
+    "d:\\Visual Studio Code Projeler\\Github_Action\\Github Action\\Github Action.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Code Projeler\\Github Action\\Github Action.csproj": {
+    "d:\\Visual Studio Code Projeler\\Github_Action\\Github Action\\Github Action.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Code Projeler\\Github Action\\Github Action.csproj",
+        "projectUniqueName": "d:\\Visual Studio Code Projeler\\Github_Action\\Github Action\\Github Action.csproj",
         "projectName": "Github Action",
-        "projectPath": "D:\\Visual Studio Code Projeler\\Github Action\\Github Action.csproj",
+        "projectPath": "d:\\Visual Studio Code Projeler\\Github_Action\\Github Action\\Github Action.csproj",
         "packagesPath": "C:\\Users\\abdul\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Code Projeler\\Github Action\\obj\\",
+        "outputPath": "d:\\Visual Studio Code Projeler\\Github_Action\\Github Action\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\abdul\\AppData\\Roaming\\NuGet\\NuGet.Config"
