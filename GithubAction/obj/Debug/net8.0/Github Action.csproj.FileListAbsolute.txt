@@ -1,0 +1,67 @@
+d:\Visual Studio Code Projeler\Github Action\bin\Debug\net8.0\appsettings.Development.json
+d:\Visual Studio Code Projeler\Github Action\bin\Debug\net8.0\appsettings.json
+d:\Visual Studio Code Projeler\Github Action\bin\Debug\net8.0\Github Action.exe
+d:\Visual Studio Code Projeler\Github Action\bin\Debug\net8.0\Github Action.deps.json
+d:\Visual Studio Code Projeler\Github Action\bin\Debug\net8.0\Github Action.runtimeconfig.json
+d:\Visual Studio Code Projeler\Github Action\bin\Debug\net8.0\Github Action.dll
+d:\Visual Studio Code Projeler\Github Action\bin\Debug\net8.0\Github Action.pdb
+d:\Visual Studio Code Projeler\Github Action\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+d:\Visual Studio Code Projeler\Github Action\bin\Debug\net8.0\Microsoft.OpenApi.dll
+d:\Visual Studio Code Projeler\Github Action\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Visual Studio Code Projeler\Github Action\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Visual Studio Code Projeler\Github Action\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\Github Action.csproj.AssemblyReference.cache
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\Github Action.GeneratedMSBuildEditorConfig.editorconfig
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\Github Action.AssemblyInfoInputs.cache
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\Github Action.AssemblyInfo.cs
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\Github Action.csproj.CoreCompileInputs.cache
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\Github Action.MvcApplicationPartsAssemblyInfo.cs
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\Github Action.MvcApplicationPartsAssemblyInfo.cache
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\staticwebassets.build.json
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\staticwebassets.development.json
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\staticwebassets\msbuild.Github Action.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\staticwebassets\msbuild.build.Github Action.props
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Github Action.props
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Github Action.props
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\staticwebassets.pack.json
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\scopedcss\bundle\Github Action.styles.css
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\Github A.6D579D35.Up2Date
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\Github Action.dll
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\refint\Github Action.dll
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\Github Action.pdb
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\Github Action.genruntimeconfig.cache
+d:\Visual Studio Code Projeler\Github Action\obj\Debug\net8.0\ref\Github Action.dll
+d:\Visual Studio Code Projeler\Github_Action\Github Action\bin\Debug\net8.0\appsettings.Development.json
+d:\Visual Studio Code Projeler\Github_Action\Github Action\bin\Debug\net8.0\appsettings.json
+d:\Visual Studio Code Projeler\Github_Action\Github Action\bin\Debug\net8.0\Github Action.exe
+d:\Visual Studio Code Projeler\Github_Action\Github Action\bin\Debug\net8.0\Github Action.deps.json
+d:\Visual Studio Code Projeler\Github_Action\Github Action\bin\Debug\net8.0\Github Action.runtimeconfig.json
+d:\Visual Studio Code Projeler\Github_Action\Github Action\bin\Debug\net8.0\Github Action.dll
+d:\Visual Studio Code Projeler\Github_Action\Github Action\bin\Debug\net8.0\Github Action.pdb
+d:\Visual Studio Code Projeler\Github_Action\Github Action\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+d:\Visual Studio Code Projeler\Github_Action\Github Action\bin\Debug\net8.0\Microsoft.OpenApi.dll
+d:\Visual Studio Code Projeler\Github_Action\Github Action\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\Visual Studio Code Projeler\Github_Action\Github Action\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\Visual Studio Code Projeler\Github_Action\Github Action\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\Github Action.csproj.AssemblyReference.cache
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\Github Action.GeneratedMSBuildEditorConfig.editorconfig
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\Github Action.AssemblyInfoInputs.cache
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\Github Action.AssemblyInfo.cs
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\Github Action.csproj.CoreCompileInputs.cache
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\Github Action.MvcApplicationPartsAssemblyInfo.cs
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\Github Action.MvcApplicationPartsAssemblyInfo.cache
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\Github Action.sourcelink.json
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\staticwebassets.build.json
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\staticwebassets.development.json
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\staticwebassets\msbuild.Github Action.Microsoft.AspNetCore.StaticWebAssets.props
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\staticwebassets\msbuild.build.Github Action.props
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Github Action.props
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Github Action.props
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\staticwebassets.pack.json
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\scopedcss\bundle\Github Action.styles.css
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\Github A.6D579D35.Up2Date
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\Github Action.dll
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\refint\Github Action.dll
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\Github Action.pdb
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\Github Action.genruntimeconfig.cache
+d:\Visual Studio Code Projeler\Github_Action\Github Action\obj\Debug\net8.0\ref\Github Action.dll
